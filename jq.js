@@ -43,7 +43,7 @@ var loadDoc = function() {
 function myFunction( xml ) {
 	var i;
 	var xmlDoc = $.parseXML(xml);
-	var table="<tr><th>Artista</th><th>Titulo</th></tr>";
+	var table="<tr><th>Artist</th><th>Title</th></tr>";
 	$("#demo").empty();
 
 	$xml = $( xmlDoc );
