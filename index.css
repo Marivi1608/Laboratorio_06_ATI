@@ -5,13 +5,13 @@ table {
 
 th, td {
     text-align: left;
-    padding: 8px;
+    padding: 12px;
 }
 
-tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(even){background-color: #f2f2A2}
 
 th {
-    background-color: #4CAF50;
+    background-color: #4FBF50;
     color: white;
 }
 
@@ -23,7 +23,7 @@ th {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     margin: 4px 2px;
     cursor: pointer;
 }
