@@ -40,6 +40,10 @@ var loadDoc = function() {
 	});
 }
 
+
+
+
+
 function myFunction( xml ) {
 	var i;
 	var xmlDoc = $.parseXML(xml);
